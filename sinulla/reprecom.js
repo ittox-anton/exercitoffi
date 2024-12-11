@@ -1,0 +1,3 @@
+const options = {
+  labelBaseline: 'main'
+};
